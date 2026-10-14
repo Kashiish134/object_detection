@@ -1,0 +1,13 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+backend/.env
+
+# Model weights (large, add manually if you want them)
+*.pt
+
+# Node / Next.js
+node_modules/
+.next/
+frontend/.env*.local
